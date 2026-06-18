@@ -2,22 +2,28 @@
 
 ## 📌 Project Overview
 
-The Hospital Patient Analysis Dashboard is an end-to-end Business Intelligence project built using Power BI. It transforms raw hospital patient data into meaningful insights through data cleaning, Power Query transformations, DAX calculations, and interactive visualizations. The dashboard helps analyze patient demographics, treatment costs, insurance claims, patient satisfaction, and overall hospital performance.
+This project presents an interactive Hospital Patient Analysis Dashboard developed using Power BI. It analyzes patient records to provide meaningful insights into hospital operations, treatment performance, patient recovery, and healthcare costs. The dashboard enables users to explore hospital data using interactive filters and visualizations for better decision-making.
 
 ---
 
-## 🎯 Objectives
+## 📷 Dashboard Preview
 
-- Analyze hospital patient records
-- Track hospital admissions and discharge trends
-- Monitor treatment costs
-- Evaluate patient satisfaction
-- Analyze insurance claims
-- Support data-driven decision-making
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Project Objectives
+
+- Analyze patient demographics.
+- Monitor treatment performance.
+- Evaluate patient recovery ratings.
+- Compare hospital performance.
+- Analyze treatment costs.
+- Create an interactive dashboard using Power BI.
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
@@ -29,49 +35,67 @@ The Hospital Patient Analysis Dashboard is an end-to-end Business Intelligence p
 
 ## 📂 Repository Structure
 
+```
 Dataset/
 PowerBI/
-Documentation/
 Screenshots/
+Documentation/
+README.md
+```
 
 ---
 
 ## 📊 Dashboard Features
 
-✔ KPI Cards
-
-✔ Interactive Slicers
-
-✔ Donut Charts
-
-✔ Column Charts
-
-✔ Bar Charts
-
-✔ Matrix/Table
-
-✔ Cross Filtering
-
-✔ Dynamic Dashboard
+- Interactive Slicers
+- KPI Cards
+- Donut Charts
+- Line Chart
+- Clustered Bar Chart
+- Matrix Table
+- Dynamic Filtering
+- Cross Highlighting
 
 ---
 
-## 📈 KPIs
+## 📈 Key Performance Indicators (KPIs)
 
 - Total Patients
-- Total Revenue
-- Average Treatment Cost
-- Average Length of Stay
-- Patient Satisfaction
-- Insurance Claims
-- Readmission Rate
+- Average Recovery Rating
+- Average Daily Cost
+- Total Average Expenses
 
 ---
 
-## 💡 Business Value
+## 📊 Visualizations Used
 
-This dashboard enables hospital administrators to monitor patient trends, optimize resources, analyze treatment costs, and make informed business decisions through interactive healthcare analytics.
+- Age Group Distribution
+- Doctor's Patient Load
+- Recovery Rating by Treatment Type
+- Gender Distribution based on Diagnosis
+- Hospital Performance Analysis
+- Hospital-wise Treatment Cost Analysis
 
 ---
 
-⭐ If you like this project, don't forget to give it a Star.
+## 💡 Business Insights
+
+- Identify hospitals with better recovery ratings.
+- Analyze patient distribution across age groups.
+- Compare treatment effectiveness.
+- Monitor average treatment expenses.
+- Evaluate doctor workload and hospital performance.
+
+---
+
+## 🚀 Future Improvements
+
+- Real-time hospital data integration
+- Predictive analytics using Machine Learning
+- Patient readmission analysis
+- Doctor performance dashboard
+- Mobile-friendly Power BI report
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
